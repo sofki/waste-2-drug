@@ -5,11 +5,7 @@ layout: default
 
 [About the project](./about.html).
 
-
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Logo](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ### Large image
 
