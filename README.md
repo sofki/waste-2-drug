@@ -1,3 +1,3 @@
-## Waste 2 Drug
+## Waste2Drug
 
 A MSCA project
