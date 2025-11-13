@@ -2,3 +2,14 @@
 ---
 
 @import 'jekyll-theme-cayman';
+
+page-header {
+  background: linear-gradient(135deg, #157878, #28a745); /* Your green gradient */
+  color: #fff;
+  text-align: center;
+  padding: 2em 1em;
+}
+.site-logo {
+  max-height: 120px;
+  margin-bottom: 1em;
+}
