@@ -34,7 +34,7 @@ With Waste2Drug, we aim to turn agricultural waste into life-saving opportunitie
 
   <!-- Second item -->
   <div style="display: flex; align-items: center; gap: 15px; max-width: 450px;">
-    <img src="assets/css/target.png" alt="Icon 2" width="60">
+    <img src="assets/css/drug.png" alt="Icon 2" width="60">
     <div>
       <strong>Utilise advanced AI tools</strong><br>
       Identify biomarkers and risk factors for CRC in an objective and measurable way using standardised data.
