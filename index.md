@@ -18,14 +18,12 @@ With Waste2Drug, we aim to turn agricultural waste into life-saving opportunitie
   grid-template-columns: repeat(2, 1fr);
   gap: 30px;
   justify-items: start;
-  background-color: #5A0D7A;
-  color: white;
   padding: 40px;
   border-radius: 16px;
 ">
 
   <!-- Item 1 -->
-  <div style="display:flex; align-items:flex-start; gap:15px;">
+  <div style="display:flex; align-items:left; gap:15px;">
     <img src="assets/css/target.png" alt="Icon 1" width="60">
     <div>
       <strong>Identify a selective group of protein biomarkers</strong><br>
