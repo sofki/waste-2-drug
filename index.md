@@ -42,12 +42,7 @@ With Waste2Drug, we aim to turn agricultural waste into life-saving opportunitie
   </div>
 
   <!-- Third item (centered below) -->
-  <div style="
-    display: flex;
-    align-items: center;
-    gap: 15px;
-    grid-column: 1 / span 2;
-    max-width: 500px;
+  <div style="display: flex; align-items: center; gap: 15px; grid-column: 1 / span 2; max-width: 450px;
   ">
     <img src="assets/css/target.png" alt="Icon 3" width="60">
     <div>
