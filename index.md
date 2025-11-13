@@ -27,8 +27,8 @@ With Waste2Drug, we aim to turn agricultural waste into life-saving opportunitie
   <div style="display: flex; align-items: center; gap: 15px; max-width: 450px;">
     <img src="assets/css/target.png" alt="Icon 1" width="60">
     <div>
-      <strong>Identify a selective group of protein biomarkers</strong><br>
-      Obtained through liquid biopsy for early screening of CRC and validation through protein network analysis.
+      <strong>Identify the molecular target of p-cymene</strong><br>
+      Use of reverse docking and Machine Learning (ML) methodologies in order to reveal the molecular target on which p-cymene exerts its anticancer action. Validate the <i>in silico</i> identified target with <i>in vitro</i> experiments.
     </div>
   </div>
 
@@ -36,8 +36,8 @@ With Waste2Drug, we aim to turn agricultural waste into life-saving opportunitie
   <div style="display: flex; align-items: center; gap: 15px; max-width: 450px;">
     <img src="assets/css/drug.png" alt="Icon 2" width="60">
     <div>
-      <strong>Utilise advanced AI tools</strong><br>
-      Identify biomarkers and risk factors for CRC in an objective and measurable way using standardised data.
+      <strong>Novel Drug Design</strong><br>
+      Use the molecular scaffold of p-cymene and its identified target(s) in order to design more potent anti-cancer agents.
     </div>
   </div>
 
@@ -46,8 +46,8 @@ With Waste2Drug, we aim to turn agricultural waste into life-saving opportunitie
   ">
     <img src="assets/css/chemistry.png" alt="Icon 3" width="60">
     <div>
-      <strong>Assess the impact of extended risk factors</strong><br>
-      Offer behavioural interventions through a mobile tool to influence preventable pre-malignant states.
+      <strong>Biomass Valorisation through terpene dehydroaromatization</strong><br>
+      Computationally unravel the mechanism of terpene dehydroaromatization in order to optimise the access of p-cymene from agri-waste biomass.
     </div>
   </div>
 
