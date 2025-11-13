@@ -13,4 +13,16 @@ description:
   </a>
 </div>
 
+<!-- Blank space between rows -->
+<div style="height:40px;"></div>
+
+<!-- Figure below the images -->
+<figure style="text-align:center;">
+  <img src="{{ 'assets/css/map.png' | relative_url }}" alt="Main Figure" style="max-width:220px;">
+  <figcaption>Participating Countries</figcaption>
+</figure>
+
+
+
+
 [back](./)
