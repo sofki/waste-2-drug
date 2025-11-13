@@ -9,7 +9,7 @@ description:
     <img src="{{ '/assets/css/NovaMlong.png' | relative_url }}" alt="Project 1" style="max-width:160px;">
   </a>
   <a href="https://www.ubu.es/english-version" target="_blank">
-    <img src="{{ '/assets/css/UBU.png' | relative_url }}" alt="Project 2" style="max-width:160px;">
+    <img src="{{ '/assets/css/UBU.svg' | relative_url }}" alt="Project 2" style="max-width:160px;">
   </a>
 </div>
 
