@@ -23,7 +23,7 @@ With Waste2Drug, we aim to turn agricultural waste into life-saving opportunitie
 ">
 
   <!-- Item 1 -->
-  <div style="display:flex; align-items:left; gap:15px;">
+  <div style="display:flex; align-items:center; gap:15px;">
     <img src="assets/css/target.png" alt="Icon 1" width="60">
     <div>
       <strong>Identify a selective group of protein biomarkers</strong><br>
