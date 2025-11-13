@@ -17,42 +17,43 @@ With Waste2Drug, we aim to turn agricultural waste into life-saving opportunitie
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 30px;
-  justify-items: start;
-  padding: 40px;
-  border-radius: 16px;
+  justify-items: start; /* align items to the left */
+  max-width: 1000px;
+  margin: 0 auto;
 ">
 
-  <!-- Item 1 -->
-  <div style="display:flex; align-items:center; gap:15px;">
+  <!-- First item -->
+  <div style="display: flex; align-items: center; gap: 15px; width: 100%;">
     <img src="assets/css/target.png" alt="Icon 1" width="60">
-    <div>
-      <strong>Identify a selective group of protein biomarkers</strong><br>
+    <div style="flex: 1;">
+      <strong>Target identification<br>
       Obtained through liquid biopsy for early screening of CRC and validation through protein network analysis.
     </div>
   </div>
 
-  <!-- Item 2 -->
-  <div style="display:flex; align-items:flex-start; gap:15px;">
+  <!-- Second item -->
+  <div style="display: flex; align-items: center; gap: 15px; width: 100%;">
     <img src="assets/css/target.png" alt="Icon 2" width="60">
-    <div>
+    <div style="flex: 1;">
       <strong>Utilise advanced AI tools</strong><br>
       Identify biomarkers and risk factors for CRC in an objective and measurable way using standardised data.
     </div>
   </div>
 
-  <!-- Item 3 (centered below the first two) -->
+  <!-- Third item (full width) -->
   <div style="
-    display:flex; align-items:flex-start; gap:15px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
     grid-column: 1 / span 2;
-    justify-self: center;
-    max-width: 600px;
+    justify-self: start;
+    width: 100%;
   ">
     <img src="assets/css/target.png" alt="Icon 3" width="60">
-    <div>
+    <div style="flex: 1;">
       <strong>Assess the impact of extended risk factors</strong><br>
       Offer behavioural interventions through a mobile tool to influence preventable pre-malignant states.
     </div>
   </div>
 
 </div>
-
