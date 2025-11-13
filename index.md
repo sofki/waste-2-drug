@@ -47,7 +47,6 @@ With Waste2Drug, we aim to turn agricultural waste into life-saving opportunitie
     align-items: center;
     gap: 15px;
     grid-column: 1 / span 2;
-    justify-self: center;
     max-width: 500px;
   ">
     <img src="assets/css/target.png" alt="Icon 3" width="60">
