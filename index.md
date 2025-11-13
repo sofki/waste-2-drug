@@ -44,7 +44,7 @@ With Waste2Drug, we aim to turn agricultural waste into life-saving opportunitie
   <!-- Third item (centered below) -->
   <div style="display: flex; align-items: center; gap: 15px; grid-column: 1 / span 2; max-width: 450px;
   ">
-    <img src="assets/css/target.png" alt="Icon 3" width="60">
+    <img src="assets/css/chemistry.png" alt="Icon 3" width="60">
     <div>
       <strong>Assess the impact of extended risk factors</strong><br>
       Offer behavioural interventions through a mobile tool to influence preventable pre-malignant states.
