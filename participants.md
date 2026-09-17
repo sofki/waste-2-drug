@@ -11,6 +11,9 @@ description:
   <a href="https://www.ubu.es/english-version" target="_blank">
     <img src="{{ '/assets/css/UBU.svg' | relative_url }}" alt="Project 2" style="max-width:250px;">
   </a>
+   <a href="https://en.uoa.gr" target="_blank">
+    <img src="{{ '/assets/css/images.png' | relative_url }}" alt="Project 2" style="max-width:250px;">
+  </a>
 </div>
 
 <!-- Blank space between rows -->
