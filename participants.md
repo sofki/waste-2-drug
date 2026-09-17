@@ -21,7 +21,7 @@ description:
 
 <!-- Figure below the images -->
 <figure style="text-align:center;">
-  <img src="{{ 'assets/css/map.png' | relative_url }}" alt="Main Figure" style="max-width:500px;">
+  <img src="{{ 'assets/css/map1.png' | relative_url }}" alt="Main Figure" style="max-width:500px;">
   <figcaption>Participating Countries</figcaption>
 </figure>
 
